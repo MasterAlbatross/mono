@@ -1,0 +1,16 @@
+{
+  "user_not_found": "Användaren hittades inte",
+  "unable_to_create_user": "Det gick inte att skapa användare",
+  "password_update_success": "Lösenordet har uppdaterats",
+  "profile_updated_success": "Profilen har uppdaterats",
+  "verification_success": "Verifieringen lyckades",
+  "verification_email_sent": "Verifieringse-postmeddelandet har skickats",
+  "trip_creation_success": "Resan har skapats!",
+  "trip_update_success": "Uppdateringar av resan slutförda",
+  "car_add_success": "Bilen har lagts till!",
+  "car_update_success": "Biluppdateringar slutförda",
+  "registration_document_upload_success": "Dokumentet har laddats upp!",
+  "upload_error": "Ladda upp en bild",
+  "logout_success": "Utloggningen lyckades",
+  "logoutAll_success": "Logga ut från alla inloggade konton lyckades"
+}

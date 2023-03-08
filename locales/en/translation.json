@@ -1,0 +1,16 @@
+{
+  "user_not_found": "User not found",
+  "unable_to_create_user": "Unable to create user",
+  "password_update_success": "Password Updated successfully",
+  "profile_updated_success": "Profile Updated successfully",
+  "verification_success": "Verification successful",
+  "verification_email_sent": "Verification email sent successfully",
+  "trip_creation_success": "Trip created successfully",
+  "trip_update_success": "Trip updates completed",
+  "car_add_success": "Car added successfully!",
+  "car_update_success": "Car updates completed",
+  "registration_document_upload_success": "Document uploaded successfully!",
+  "upload_error": "Please upload an image",
+  "logout_success": "Logout successful",
+  "logoutAll_success": "Logout from all logged in account successful"
+}

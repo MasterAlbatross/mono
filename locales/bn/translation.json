@@ -1,0 +1,16 @@
+{
+  "user_not_found": "ব্যবহারকারী খুঁজে পাওয়া যায় নি",
+  "unable_to_create_user": "ব্যবহারকারী তৈরি করতে অক্ষম",
+  "password_update_success": "পাসওয়ার্ড সফলভাবে আপডেট করা হয়েছে৷",
+  "profile_updated_success": "প্রোফাইল সফলভাবে আপডেট করা হয়েছে",
+  "verification_success": "যাচাইকরণ সফল হয়েছে",
+  "verification_email_sent": "যাচাইকরণ ইমেল সফলভাবে পাঠানো হয়েছে",
+  "trip_creation_success": "ট্রিপ সফলভাবে তৈরি করা হয়েছে",
+  "trip_update_success": "ট্রিপ আপডেট সম্পন্ন হয়েছে",
+  "car_add_success": "গাড়ি সফলভাবে যোগ করা হয়েছে",
+  "car_update_success": "গাড়ী আপডেট সম্পন্ন হয়েছে",
+  "registration_document_upload_success": "ডকুমেন্ট সফলভাবে আপলোড হয়েছে৷!",
+  "upload_error": "একটি ছবি আপলোড করুন",
+  "logout_success": "লগআউট সফল",
+  "logoutAll_success": "সব অ্যাকাউন্ট থেকে লগআউট সফল"
+}

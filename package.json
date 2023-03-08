@@ -1,0 +1,39 @@
+{
+  "name": "ondemand-backend-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "env-cmd -f ./config/test.env jest --watch --runInBand",
+    "dev": "env-cmd -f ./config/dev.env nodemon ./bin/www",
+    "start": "env-cmd -f ./.env nodemon ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-oauth-server": "^2.0.0",
+    "i18next": "^22.4.10",
+    "i18next-fs-backend": "^2.1.1",
+    "i18next-http-middleware": "^3.2.2",
+    "jsonwebtoken": "^9.0.0",
+    "lodash.pick": "^4.4.0",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.3",
+    "morgan": "~1.9.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.1",
+    "passport": "^0.6.0",
+    "passport-facebook": "^3.0.0",
+    "passport-google-oauth20": "^2.0.0",
+    "uuid": "^9.0.0",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "env-cmd": "^10.1.0",
+    "jest": "^29.4.1",
+    "nodemon": "^2.0.20",
+    "supertest": "^6.3.3"
+  }
+}
