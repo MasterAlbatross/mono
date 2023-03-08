@@ -6,7 +6,7 @@ const {
   createComment,
   updateComment,
   deleteComment,
-} = require("../controllers/Comments");
+} = require("../controllers/comments");
 const authorization = require("../middlewares/authorization");
 const { ADMIN } = require("../const/user");
 
