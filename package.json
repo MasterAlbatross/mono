@@ -5,7 +5,7 @@
   "scripts": {
     "test": "env-cmd -f ./config/test.env jest --watch --runInBand",
     "dev": "env-cmd -f ./config/dev.env nodemon ./bin/www",
-    "start": "env-cmd -f ./.env nodemon ./bin/www"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
