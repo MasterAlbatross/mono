@@ -12,9 +12,9 @@ const authorization = require("../middlewares/authorization");
 const { ADMIN } = require("../const/user");
 
 /* GET users listing. */
-router.get("/", authorization(ADMIN), getAllUser);
-router.get("/:id", authorization(ADMIN), getSingleUser);
-router.post("/", authorization(ADMIN), createUser);
+router.get("/", getAllUser);
+router.get("/:id", getSingleUser);
+router.post("/", createUser);
 
 router.patch("/update-password", updatePassword);
 router.patch("/update-profile", updateProfile);
